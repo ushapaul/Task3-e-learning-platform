@@ -16,6 +16,7 @@ MENROR : NEELA SANTOSH
 As part of the CODTECH internship, Task 4 involves designing the front-end of an e-learning platform. The interface should include essential features such as course listing, progress tracking, and video embedding. The deliverable is a well-styled, interactive multi-page user interface. Interns are expected to store all their work-related code and files in a GitHub repository and maintain proper commenting practices within their code. A completion certificate will be provided at the end of the internship.
 
 output:
+![Image](https://github.com/user-attachments/assets/f47b2ae0-6b02-4cc3-b313-ea3cf82d3094)
 
 
 
