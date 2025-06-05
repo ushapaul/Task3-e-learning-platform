@@ -1,5 +1,25 @@
 # E-Learning Platform UI
 
+
+COMPANY : CODETECH IT SOLUTUON
+
+NAME : KAMPALI USHA PAUL
+
+INTERN ID : CT04DM1183
+
+DOMAIN : FRONT END DEVELOPMENT
+
+DURATION : 4 WEEKS
+
+MENROR : NEELA SANTOSH
+
+As part of the CODTECH internship, Task 4 involves designing the front-end of an e-learning platform. The interface should include essential features such as course listing, progress tracking, and video embedding. The deliverable is a well-styled, interactive multi-page user interface. Interns are expected to store all their work-related code and files in a GitHub repository and maintain proper commenting practices within their code. A completion certificate will be provided at the end of the internship.
+
+output:
+
+
+
+
 This project is a modern, multi-page front-end for an E-Learning Platform, built with React, React Router, and Tailwind CSS. It features a beautiful gradient UI, course listing, progress tracking, and video embedding.
 
 ## Features
@@ -44,6 +64,8 @@ e-learning-platform/
 ## Customization
 - Add more courses to the `demoCourses` array in `src/App.jsx`.
 - Adjust colors and gradients using Tailwind CSS classes.
+
+
 
 ## License
 This project is for educational and demonstration purposes.
